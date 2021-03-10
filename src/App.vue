@@ -5,13 +5,13 @@
     app
     >
       <v-list-item>
+        <v-list-item-avatar>
+          <v-img src="https://randomuser.me/api/portraits/men/85.jpg"></v-img>
+        </v-list-item-avatar>
         <v-list-item-content>
           <v-list-item-title class="title">
-            Tarefas do dia
+            Éric 
           </v-list-item-title>
-          <v-list-item-subtitle>
-            ...
-          </v-list-item-subtitle>
         </v-list-item-content>
       </v-list-item>
 
