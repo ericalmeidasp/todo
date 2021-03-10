@@ -7,10 +7,10 @@
       <v-list-item>
         <v-list-item-content>
           <v-list-item-title class="title">
-            Tarefas
+            Tarefas do dia
           </v-list-item-title>
           <v-list-item-subtitle>
-            a realizar
+            ...
           </v-list-item-subtitle>
         </v-list-item-content>
       </v-list-item>
